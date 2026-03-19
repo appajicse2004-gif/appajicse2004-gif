@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Appaji
 
-<!--
-**appajicse2004-gif/appajicse2004-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently Learning
+- MNE (Brain Signal Processing)
+- Python (NumPy, Pandas)
+- Open Source (GSoC 2026)
 
-Here are some ideas to get you started:
+## What I Did Today
+- Loaded real brain signal data using MNE
+- Visualized MEG signals
+- Applied filtering (1–40 Hz)
+- Compared noisy vs clean signals
+- Explored frequency spectrum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goal
+- Contribute to MNE-Python
+- Get selected for GSoC 2026
+
+## Skills
+- Python
+- NumPy, Pandas
+- Basic Signal Processing
+
+## Current Focus
+Learning how to analyze and clean brain signals using MNE and preparing for open-source contributions.
