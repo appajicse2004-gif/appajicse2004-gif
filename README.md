@@ -1,25 +1,18 @@
 # Hi, I'm Appaji
 
-## Currently Learning
-- MNE (Brain Signal Processing)
-- Python (NumPy, Pandas)
-- Open Source (GSoC 2026)
+I'm building my software engineering foundations and exploring AI/ML through practical projects.
 
-## What I Did Today
-- Loaded real brain signal data using MNE
-- Visualized MEG signals
-- Applied filtering (1–40 Hz)
-- Compared noisy vs clean signals
-- Explored frequency spectrum
+## Current interests
+- Python and data analysis
+- NumPy and pandas
+- Machine learning fundamentals
+- Brain-signal processing
 
-## Goal
-- Contribute to MNE-Python
-- Get selected for GSoC 2026
+## Past exploration
+I explored MNE-Python with MEG data, including signal visualization, 1–40 Hz filtering, and frequency spectra. This was a learning project that I paused before making an open source contribution.
 
-## Skills
-- Python
-- NumPy, Pandas
-- Basic Signal Processing
+## What I'm working toward
+Building small, complete projects that show how I solve problems, write code, and explain my decisions.
 
-## Current Focus
-Learning how to analyze and clean brain signals using MNE and preparing for open-source contributions.
+## Find me
+- [GitHub](https://github.com/appajicse2004-gif)
