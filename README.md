@@ -1,18 +1,17 @@
 # Hi, I'm Appaji
 
-I'm building my software engineering foundations and exploring AI/ML through practical projects.
+I'm a software engineering learner interested in building useful software and exploring AI/ML.
+
+## Projects and practice
+- **Java programming practice** — Exercises covering arrays, searching and sorting, matrices, strings, collections, and stacks.
 
 ## Current interests
+- Software engineering fundamentals
 - Python and data analysis
-- NumPy and pandas
-- Machine learning fundamentals
-- Brain-signal processing
+- AI/ML fundamentals
 
-## Past exploration
-I explored MNE-Python with MEG data, including signal visualization, 1–40 Hz filtering, and frequency spectra. This was a learning project that I paused before making an open source contribution.
+## Next
+I'm working toward building complete projects that combine solid software engineering with practical AI/ML.
 
-## What I'm working toward
-Building small, complete projects that show how I solve problems, write code, and explain my decisions.
-
-## Find me
+## Connect
 - [GitHub](https://github.com/appajicse2004-gif)
